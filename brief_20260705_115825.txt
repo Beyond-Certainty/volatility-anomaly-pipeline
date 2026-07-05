@@ -1,0 +1,22 @@
+============================================================
+DAILY VOLATILITY & ANOMALY BRIEF - 2026-07-05
+============================================================
+
+XOM  (source: yfinance)
+  Latest close : 137.09
+  Today's move : +0.59%   (+0.69 sigma)   normal range
+
+CVX  (source: yfinance)
+  Latest close : 169.20
+  Today's move : +2.12%   (+1.92 sigma)   normal range
+
+SPY  (source: yfinance)
+  Latest close : 744.78
+  Today's move : -0.13%   (-0.05 sigma)   normal range
+
+------------------------------------------------------------
+XOM / CVX PAIR-SPREAD SIGNAL  (is the correlated pair diverging?)
+  Return spread today: -1.52%   (-2.32 sigma)   normal range
+------------------------------------------------------------
+
+SUMMARY: No anomalies detected today. Everything in normal range.
